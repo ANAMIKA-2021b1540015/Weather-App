@@ -1,1 +1,2 @@
 # Weather-App
+The Weather App project provides users with real-time weather updates and forecasts for their location. Users can input their city or use geolocation to receive accurate weather information, including temperature, humidity, wind speed, and conditions. With intuitive design and reliable data sources, the app ensures users stay informed about current and upcoming weather conditions effortlessly.
